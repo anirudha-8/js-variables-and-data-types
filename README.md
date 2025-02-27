@@ -17,7 +17,7 @@ Below are the 10 questions covered in this module:
 | 5 | Create a variable with a number as a string (e.g., "25") and log its type. | [🔗 5-Problem](./5-Problem.js) |
 | 6 | Use typeof to check the type of a boolean variable. | [🔗 6-Problem](./6-Problem.js) |
 | 7 | Create three variables of types string, number, and boolean, and log their values. | [🔗 7-Problem](./7-Problem.js) |
-| 8 | Declare a variable without assigning a value. Log its type. | [🔗 8-Problem](./solutions/8-Problem.js) |
+| 8 | Declare a variable without assigning a value. Log its type. | [🔗 8-Problem](./8-Problem.js) |
 | 9 | Create a variable with undefined and log its type. | [🔗 9-Problem](./solutions/9-Problem.js) |
 | 10 | Use const to create an array. Try modifying the array and observe the error. | [🔗 10-Problem](./solutions/10-Problem.js) |
 
