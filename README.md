@@ -13,7 +13,7 @@ Below are the 10 questions covered in this module:
 | 1 | Declare a variable using let and log its value. | [🔗 1-Problem](./1-Problem.js) |
 | 2 | Create a constant to store the value of PI and log it. | [🔗 2-Problem](./2-Problem.js) |
 | 3 | Reassign a value to a variable declared with let and log the result. | [🔗 3-Problem](./3-Problem.js) |
-| 4 | Check the type of null and log it. | [🔗 4-Problem](./solutions/4-Problem.js) |
+| 4 | Check the type of null and log it. | [🔗 4-Problem](./4-Problem.js) |
 | 5 | Create a variable with a number as a string (e.g., "25") and log its type. | [🔗 5-Problem](./solutions/5-Problem.js) |
 | 6 | Use typeof to check the type of a boolean variable. | [🔗 6-Problem](./solutions/6-Problem.js) |
 | 7 | Create three variables of types string, number, and boolean, and log their values. | [🔗 7-Problem](./solutions/7-Problem.js) |
