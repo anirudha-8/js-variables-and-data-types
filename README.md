@@ -11,7 +11,7 @@ Below are the 10 questions covered in this module:
 | #  | Problem | Solution Path |
 |----|---------|--------------|
 | 1 | Declare a variable using let and log its value. | [🔗 1-Problem](./1-Problem.js) |
-| 2 | Create a constant to store the value of PI and log it. | [🔗 2-Problem](./solutions/2-Problem.js) |
+| 2 | Create a constant to store the value of PI and log it. | [🔗 2-Problem](./2-Problem.js) |
 | 3 | Reassign a value to a variable declared with let and log the result. | [🔗 3-Problem](./solutions/3-Problem.js) |
 | 4 | Check the type of null and log it. | [🔗 4-Problem](./solutions/4-Problem.js) |
 | 5 | Create a variable with a number as a string (e.g., "25") and log its type. | [🔗 5-Problem](./solutions/5-Problem.js) |
